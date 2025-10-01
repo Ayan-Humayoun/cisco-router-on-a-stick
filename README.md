@@ -108,6 +108,9 @@ Finance PC1 → 192.168.30.2 / 255.255.255.0 / GW 192.168.30.1
 
 Finance PC2 → 192.168.30.3 / 255.255.255.0 / GW 192.168.30.1
 ```
+
+![IP Assigning](Screenshots/Ip_addressing-1.png)
+
 ---
 ### ✅ Testing
 Ping between HR → IT → Finance PCs.
