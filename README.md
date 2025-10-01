@@ -30,6 +30,8 @@ The network is designed for a small office environment with **three departments*
   - Switch port `fa0/24` → Router port `fa0/0` (Trunk link)  
   - PCs connected to switch access ports
 
+  ![Network Topology](Screenshots/Network_Topology.png)
+
 ---
 
 ## ⚙️ Configuration Steps
@@ -116,7 +118,7 @@ Example:
 
 - Successful reply confirms Inter-VLAN communication is working.
 
-📸 Screenshots
+
 ![PING Screenshot](Screenshots/Inter-vlan_communication-2.png)
 
 
